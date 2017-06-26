@@ -1,0 +1,15 @@
+{
+    "libs": [
+        "browser",
+        "jquery",
+        "ecmascript"
+    ],
+    "loadEagerly": [],
+    "plugins": {
+        "node": {},
+        "requirejs": {
+            "baseURL": "./",
+            "paths": {}
+        }
+    }
+}
